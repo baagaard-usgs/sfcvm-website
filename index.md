@@ -1,4 +1,4 @@
-# San Francisco Bay Region Community Seismic Velocity Models
+# San Francisco Bay Region Community Seismic Velocity Model Development
 
 ## About
 
