@@ -40,4 +40,3 @@ $ bundle exec jekyll serve
 ## Quick Reference
 
 * Table of contents is set in in `_data/navbar.yml`
-* Include script `{% include_relative FILENAME %}`
