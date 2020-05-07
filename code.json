@@ -1,0 +1,45 @@
+{
+  "version": "2.0.0",
+  "measurementType": {},
+  "agency": "U.S. Department of Interior",
+  "releases": [
+    {
+        "name": "sfcvm-website",
+        "description": "Website for San Francisco Bay region seismic velocity model development",
+        "version": "v1.0.0",
+        "status": "Draft",
+        "organization": "U.S. Geological Survey",
+        "vcs": "git",
+        "repositoryUrl": "https://github.com/baagaard-usgs/sfcvm-website.git",
+        "homepageURL": "https://baagaard-usgs.github.io/sfcvm-website/",
+        "disclaimerURL": "https://github.com/baagaard-usgs/sfcvm-website/blob/master/DISCLAIMER.md",
+        "permissions": {
+            "licenses": [
+                {
+                    "name": "Public Domain, CC0-1.0",
+                    "URL": "https://github.com/baagaard-usgs/sfcvm-website/blob/master/LICENSE.md"
+                }
+            ],
+            "usageType": "openSource",
+            "exemptionText": null
+        },
+        "laborHours": null,
+        "languages": [
+            "markdown"
+        ],
+        "tags": [
+            "seismic velocity model",
+            "website",
+            "San Francisco Bay",
+            "California",  
+        ],
+        "contact": {
+            "name": "Brad Aagaard",
+            "email": "baagaard@usgs.gov"
+        },
+        "date": {
+            "metadataLastUpdated": "2020-05-07"
+        }
+    }
+  ]
+}

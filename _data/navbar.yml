@@ -1,0 +1,38 @@
+toc:
+  - title: Overview
+    subitems:
+      - page: About
+        url: /
+      - page: News
+        url: /overview/news.html
+  - title: Workshops
+    subitems:
+      - page: 2019
+        url: /workshops/2019-agenda.html
+      - page: 2018
+        url: /workshops/2018-agenda.html
+  - title: Documents
+    subitems:
+      - page: Science Plan 2019-2024
+        url: /documents/science-plan-2019.html
+  - title: Models
+    subitems:
+      - page: Seismic Velocity Models
+        url: /models/seismic.html
+        subsubitems:
+          - page: USGS 08.3.0
+            url: /models/seismic-usgs-08.3.0.html
+          - page: USGS 20.0.0
+            url: /models/seismic-usgs-20.0.0.html
+      - page: Geologic Models
+        url: /models/geologic.html
+        subsubitems:
+          - page: USGS 08.3.0
+            url: /models/geologic-usgs-08.3.0.html
+  - title: Data
+  - title: Software
+    subitems:
+      - page: cencalvm
+        url: /software/cencalvm.html
+      - page: geomodelgrids
+        url: /software/geomodelgrids.html

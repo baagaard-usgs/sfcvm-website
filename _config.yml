@@ -1,0 +1,10 @@
+remote_theme: pmarsceill/just-the-docs
+title: San Francisco Bay region seismic velocity model development
+baseurl: /sfcvm-website
+#search_enabled: true
+aux_links:
+    "GitHub repository":
+      - "//github.com/baagaard-usgs/sfcvm-website"
+
+plugins:
+  - jekyll-seo-tag
