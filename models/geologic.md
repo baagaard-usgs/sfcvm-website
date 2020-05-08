@@ -9,7 +9,7 @@ blocks. These fault blocks are further subdivided by zone surfaces
 that most commonly represent contacts between rock units within a
 fault block.
 
-### Quick links
+### Quick Links
 
 * [Model webpage](https://earthquake.usgs.gov/data/3dgeologic/)
 * [Documentation](https://earthquake.usgs.gov/data/3dgeologic/documentation.php)

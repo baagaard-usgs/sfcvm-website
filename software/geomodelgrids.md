@@ -15,7 +15,7 @@ velocity model use this interface.
 memory.
 * Use caching to improve query speed.
 
-## Quick links
+## Quick Links
 
 * [GitHub repository](https://github.com/baagaard-usgs/geomodelgrids)
 * [Documentation](https://baagaard-usgs.github.io/geomodelgrids)

@@ -5,7 +5,11 @@ earlier versions of the USGS San Francisco Bay region seismic velocity
 model. The seismic velocity model is encoded using the binary [Etree
 format](http://www.cs.cmu.edu/~euclid/). 
 
-## Quick links
+**Important**: The Euclid library running on big endian machines
+  cannot read the Etree files for models (e.g., 08.3.0) created on
+  little endian machines.
+
+## Quick Links
 
 * [GitHub repository](https://github.com/usgs/earthquake-cencalvm)
 * [Documentation](https://usgs.github.io/earthquake-cencalvm)
