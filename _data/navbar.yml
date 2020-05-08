@@ -7,14 +7,14 @@ toc:
         url: /overview/news.html
   - title: Workshops
     subitems:
-      - page: 2019
+      - page: 2019 May 16
         url: /workshops/2019-agenda.html
-      - page: 2018
+      - page: 2018 March 21-22
         url: /workshops/2018-agenda.html
   - title: Documents
     subitems:
       - page: Science Plan 2019-2024
-        url: /documents/science-plan-2019.html
+        url: /documents/2019-science-plan.html
   - title: Models
     subitems:
       - page: Seismic Velocity Models
