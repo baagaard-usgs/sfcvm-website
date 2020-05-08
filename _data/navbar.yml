@@ -19,16 +19,8 @@ toc:
     subitems:
       - page: Seismic Velocity Models
         url: /models/seismic.html
-        subsubitems:
-          - page: USGS 08.3.0
-            url: /models/seismic-usgs-08.3.0.html
-          - page: USGS 20.0.0
-            url: /models/seismic-usgs-20.0.0.html
       - page: Geologic Models
         url: /models/geologic.html
-        subsubitems:
-          - page: USGS 08.3.0
-            url: /models/geologic-usgs-08.3.0.html
   - title: Data
   - title: Software
     subitems:
