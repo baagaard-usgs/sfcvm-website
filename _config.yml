@@ -1,7 +1,10 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: baagaard-usgs/just-the-docs
 title: San Francisco Bay region seismic velocity model development
 baseurl: /sfcvm-website
-#search_enabled: true
 
-plugins:
-  - jekyll-seo-tag
+color_scheme: usgs_lightbg
+heading_anchors: false
+search_enabled: true
+
+title_image: images/USGSsimple.png
+software_version: 2
