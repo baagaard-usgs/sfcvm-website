@@ -12,4 +12,10 @@ repository (https://github.com/baagaard-usgs/sfcvm-website).
 
 ## Working Group
 
-TBD
+* Brad Aagaard (U.S. Geological Survey)
+* Rufus Catchings (U.S. Geological Survey)
+* Russell Graymer (U.S. Geological Survey)
+* Phiip Macheling (USC, SCEC)
+* Arthur Rodgers (Lawrence Livermore National Laboratory)
+* Taka'aki Taira (Univ. of California, Berkeley)
+* Clifford Thurber (Univ. of Wisconsin)
