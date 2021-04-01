@@ -1,6 +1,6 @@
 # 3D Seismic Velocity Models
 
-## USGS 20.0.0
+## USGS San Francisco Bay Region, 21.1.0
 
 **Released**: TBD
 
