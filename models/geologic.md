@@ -11,11 +11,10 @@ fault block.
 
 ### Quick Links
 
-* [Model webpage](https://earthquake.usgs.gov/data/3dgeologic/)
-* [Documentation](https://earthquake.usgs.gov/data/3dgeologic/documentation.php)
+* [Model webpage](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/3-d-geologic-and-seismic-velocity-models-san-francisco?qt-science_center_objects=0#qt-science_center_objects)
 * Downloads
   - Detailed domain
-    + [Zone and fault surfaces](https://earthquake.usgs.gov/data/3dgeologic/docs/USGSBayAreaBM-05.1.0_allsurfs.tgz) (42.3 MB)
-    + [Fault surfaces only](https://earthquake.usgs.gov/data/3dgeologic/docs/USGSBayAreaBM-05.1.0_faultsurfs.tgz) (8.0 MB)
+    + [Zone and fault surfaces](https://escweb.wr.usgs.gov/content/data/3dgeologic/docs/USGSBayAreaBM-05.1.0_allsurfs.tgz) (42.3 MB)
+    + [Fault surfaces only](https://escweb.wr.usgs.gov/content/data/3dgeologic/docs/USGSBayAreaBM-05.1.0_faultsurfs.tgz) (8.0 MB)
   - Regional domain
-    + [Zone and fault surfaces](https://earthquake.usgs.gov/data/3dgeologic/docs/USGSBayAreaBMExt-05.1.0_allsurfs.tgz)
+    + [Zone and fault surfaces](https://escweb.wr.usgs.gov/content/data/3dgeologic/docs/USGSBayAreaBMExt-05.1.0_allsurfs.tgz)
