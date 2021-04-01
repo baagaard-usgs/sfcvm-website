@@ -7,6 +7,8 @@ toc:
         url: /overview/news.html
   - title: Workshops
     subitems:
+      - page: 2021 May 10
+        url: /workshops/2021-agenda.html
       - page: 2019 May 16
         url: /workshops/2019-agenda.html
       - page: 2018 March 21-22
@@ -27,7 +29,7 @@ toc:
         url: /data/placeholder.html
   - title: Software
     subitems:
-      - page: cencalvm
-        url: /software/cencalvm.html
       - page: geomodelgrids
         url: /software/geomodelgrids.html
+      - page: cencalvm
+        url: /software/cencalvm.html

@@ -1,5 +1,11 @@
 # News
 
+## April 1, 2021
+
+Our next workshop focused on geologic and seismic velocity models of
+the greater San Francisco Bay region will be May 10, 2021. See the
+[workshop page]({{ site.url }}{{ site.baseurl }}/workshops/2021-agenda.html) for more information.
+
 ## April 16, 2020
 
 Online publication of the

@@ -4,7 +4,7 @@ C++ applications and C++ library with C interface for managing and querying
 georeferenced 3D gridded data stored using HDF5. Python interface for
 creating models.
 
-08.4.0 and later versions of the USGS San Francisco Bay region seismic
+21.0.0 and later versions of the USGS San Francisco Bay region seismic
 velocity model use this interface.
 
 ## Features
