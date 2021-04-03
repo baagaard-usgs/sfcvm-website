@@ -20,13 +20,11 @@ $ gem install bundler
 
 4. Install local gems
 ```
-$ cd groundmotion-processing/docs
 $ bundle install
 ```
 
 5. Run Jekyll site locally
 ```
-$ cd groundmotion-processing/docs
 $ bundle exec jekyll serve
 ```
 
