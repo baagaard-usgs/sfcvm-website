@@ -52,3 +52,31 @@ One of the goals will be to identify potential collaborations.
 | 2:40pm | Next steps |
 | 3:00pm | Wrap-up |
 
+
+## Registered Participants
+
+* Brad Aagaard (USGS)
+* Norman Abrahamson	(UC Berkeley)
+* Pedro Arduino (Univ. Washington)
+* Domniki Asimaki (Caltech)
+* Adda Athanasopoulos-Zekkos (UC Berkeley)
+* Oliver Boyd (USGS)
+* Joanne Chan (USGS)
+* Carola Di Alessandro (GeoPentech)
+* Farid Ghahari (UCLA)
+* Ruth Harris (USGS)
+* Steve Hickman (USGS)
+* Evan Hirakawa (USGS)
+* Keith Knudsen (USGS)
+* Philip Maechling (USC/SCEC)
+* Don Medwedeff (Independent)
+* Chukwuebuka Nweke (USC)
+* Floriana Petrone (UNR/LLNL)
+* Geoff Phelps (USGS)
+* Elnaz Seylabi (UNR)
+* Ian Stone (USGS)
+* Ertugrul Taciroglu (UCLA)
+* Taka'aki Taira (UC Berkeley)
+* Erin Wirth (USGS)
+* Alan Yong (USGS)
+* Wenyang Zhang (UCLA)
