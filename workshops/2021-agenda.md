@@ -12,7 +12,6 @@ One of the goals will be to identify potential collaborations.
 
 ## Agenda (all times in PDT):
 
-| --: | :-- |
 | 8:15am | Welcome, Brad Aagaard (USGS) |
 | 8:20am | Participant introductions |
 
@@ -31,9 +30,9 @@ One of the goals will be to identify potential collaborations.
 ### Session II
 
 | 10:30am | Luther Strayer (CSUEB) or Rufus Catchings (USGS), East Bay Seismic Experiment |
-| 10:45am | ??Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment |
+| 10:45am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment |
 | 11:00am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio |
-| 11:15am | ??Avinash Nayak (LLNL) |
+| 11:15am | Avinash Nayak (LLNL) | Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
 | 11:30am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simualtions of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults |
 | 11:45am | David McCallen (UNR), EQSIM Exascale Computing Project |
 | 12:00pm | Discussion |
