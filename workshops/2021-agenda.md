@@ -8,6 +8,8 @@ with the 3-D Bay Area geologic and seismic velocity models.
 One of the goals will be to identify potential collaborations.
 
 [Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlJ7tnuKbWLpOqv1ZgDmHxJVURFJDTzlWRUEyVFpYSjZIVFA5SFY1OVUxUS4u)
+Register to attend the workshop **or** sign up for notification of
+future workshops.
 
 
 ## Agenda (all times in PDT):
@@ -33,7 +35,7 @@ One of the goals will be to identify potential collaborations.
 10:42am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment
 10:54am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio
 11:06am | Avinash Nayak (LLNL) | Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
-11:18am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simualtions of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults
+11:18am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simulations of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults
 11:30am | David McCallen (UNR), EQSIM Exascale Computing Project
 11:42pm | Discussion
 
