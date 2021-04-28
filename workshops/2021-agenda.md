@@ -43,10 +43,11 @@ future workshops.
 
 ### Breakout sessions
 
-1:00pm | Integrating geology, geophysics, and seismology
-1:20pm | Shallow structure
-1:40pm | Basin structure
-2:00pm | Special study areas
+1:00pm | Integrating geology, geophysics, and seismology | Moderator:
+Cliff Thurber; Scribe: TBD
+1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer
+1:40pm | Basin structure | Moderator: TBD; Scribe: TBD
+2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: TBD
 
 ### Wrap-up discussion
 
@@ -59,26 +60,46 @@ future workshops.
 
 * Brad Aagaard (USGS)
 * Norman Abrahamson	(UC Berkeley)
+* Sean Ahdi (USGS)
 * Pedro Arduino (Univ. Washington)
 * Domniki Asimaki (Caltech)
 * Adda Athanasopoulos-Zekkos (UC Berkeley)
+* Annemarie Baltay (USGS)
 * Oliver Boyd (USGS)
+* Rufus Catchings (USGS)
+* Mehmet Celebi (USGS)
 * Joanne Chan (USGS)
+* Collin Cronkite-Ratcliff (USGS)
 * Carola Di Alessandro (GeoPentech)
 * Farid Ghahari (UCLA)
+* Alex Grant (USGS)
+* Robert Graves (USGS)
+* Russell Graymer (USGS)
 * Ruth Harris (USGS)
+* Koichi Hayashi (Geometrics/OYO)
 * Steve Hickman (USGS)
 * Evan Hirakawa (USGS)
+* Albert Kottke (PG&E)
 * Keith Knudsen (USGS)
+* Micaela Largent (Slate Geotechnical)
 * Philip Maechling (USC/SCEC)
+* David McCallen (LBNL, UNR)
 * Don Medwedeff (Independent)
+* Debra Murphy (Slate Geotechnical)
+* Avinash Nayak (LBNL)
 * Chukwuebuka Nweke (USC)
+* Tara Nye (Univ. Oregon)
+* Grace Parker (USGS)
 * Floriana Petrone (UNR/LLNL)
 * Geoff Phelps (USGS)
+* Arben Pitarka (LLNL)
+* Valerie Sahakian (Univ. Oregon)
 * Elnaz Seylabi (UNR)
+* Jamison Steidl (UCSB)
 * Ian Stone (USGS)
 * Ertugrul Taciroglu (UCLA)
 * Taka'aki Taira (UC Berkeley)
+* Cliff Thurber (Univ. Wisconsin-Madison)
 * Erin Wirth (USGS)
 * Alan Yong (USGS)
 * Wenyang Zhang (UCLA)
