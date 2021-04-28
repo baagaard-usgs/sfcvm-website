@@ -34,7 +34,7 @@ future workshops.
 10:30am | Luther Strayer (CSUEB), East Bay Seismic Experiment
 10:42am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment
 10:54am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio
-11:06am | Avinash Nayak (LLNL) | Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
+11:06am | Avinash Nayak (LLNL), Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
 11:18am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simulations of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults
 11:30am | David McCallen (UNR), EQSIM Exascale Computing Project
 11:42pm | Discussion
@@ -43,11 +43,10 @@ future workshops.
 
 ### Breakout sessions
 
-1:00pm | Integrating geology, geophysics, and seismology | Moderator:
-Cliff Thurber; Scribe: TBD
-1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer
-1:40pm | Basin structure | Moderator: TBD; Scribe: TBD
-2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: TBD
+| 1:00pm | Integrating geology, geophysics, and seismology | Moderator: Cliff Thurber; Scribe: TBD |
+| 1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer |
+| 1:40pm | Basin structure | Moderator: TBD; Scribe: TBD |
+| 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: TBD |
 
 ### Wrap-up discussion
 
