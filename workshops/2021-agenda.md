@@ -45,7 +45,7 @@ future workshops.
 
 | 1:00pm | Integrating geology, geophysics, and seismology | Moderator: Cliff Thurber; Scribe: TBD |
 | 1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer |
-| 1:40pm | Basin structure | Moderator: TBD; Scribe: TBD |
+| 1:40pm | Basin structure | Moderator: Artie Rodgers; Scribe: TBD |
 | 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: TBD |
 
 ### Wrap-up discussion
@@ -64,12 +64,14 @@ future workshops.
 * Domniki Asimaki (Caltech)
 * Adda Athanasopoulos-Zekkos (UC Berkeley)
 * Annemarie Baltay (USGS)
+* Michael Barall (USGS)
 * Oliver Boyd (USGS)
 * Rufus Catchings (USGS)
 * Mehmet Celebi (USGS)
 * Joanne Chan (USGS)
 * Collin Cronkite-Ratcliff (USGS)
 * Carola Di Alessandro (GeoPentech)
+* Gabriel Ferragut (Univ. Oregon)
 * Farid Ghahari (UCLA)
 * Alex Grant (USGS)
 * Robert Graves (USGS)
@@ -81,10 +83,12 @@ future workshops.
 * Albert Kottke (PG&E)
 * Keith Knudsen (USGS)
 * Micaela Largent (Slate Geotechnical)
+* Wei Liu (LLNL)
 * Philip Maechling (USC/SCEC)
 * David McCallen (LBNL, UNR)
 * Don Medwedeff (Independent)
 * Debra Murphy (Slate Geotechnical)
+* Rie Nakata (LBNL)
 * Avinash Nayak (LBNL)
 * Chukwuebuka Nweke (USC)
 * Tara Nye (Univ. Oregon)
@@ -92,6 +96,7 @@ future workshops.
 * Floriana Petrone (UNR/LLNL)
 * Geoff Phelps (USGS)
 * Arben Pitarka (LLNL)
+* Arthur Rodgers (LLNL)
 * Valerie Sahakian (Univ. Oregon)
 * Elnaz Seylabi (UNR)
 * Jamison Steidl (UCSB)
