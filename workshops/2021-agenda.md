@@ -43,10 +43,10 @@ future workshops.
 
 ### Breakout sessions
 
-| 1:00pm | Integrating geology, geophysics, and seismology | Moderator: Cliff Thurber; Scribe: TBD |
+| 1:00pm | Integrating geology, geophysics, and seismology | Moderator: Cliff Thurber; Scribe: Brad Aagaard |
 | 1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer |
-| 1:40pm | Basin structure | Moderator: Artie Rodgers; Scribe: TBD |
-| 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: TBD |
+| 1:40pm | Basin structure | Moderator: Artie Rodgers; Scribe: Evan Hirakawa |
+| 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: | Brad Aagaard |
 
 ### Wrap-up discussion
 
@@ -73,6 +73,7 @@ future workshops.
 * Carola Di Alessandro (GeoPentech)
 * Gabriel Ferragut (Univ. Oregon)
 * Farid Ghahari (UCLA)
+* Mark Goldman (USGS)
 * Alex Grant (USGS)
 * Robert Graves (USGS)
 * Russell Graymer (USGS)
@@ -99,6 +100,7 @@ future workshops.
 * Arthur Rodgers (LLNL)
 * Valerie Sahakian (Univ. Oregon)
 * Elnaz Seylabi (UNR)
+* Robert Sickler (USGS)
 * Jamison Steidl (UCSB)
 * Ian Stone (USGS)
 * Ertugrul Taciroglu (UCLA)

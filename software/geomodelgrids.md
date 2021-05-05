@@ -18,8 +18,10 @@ memory.
 ## Quick Links
 
 * [GitHub repository](https://github.com/baagaard-usgs/geomodelgrids)
+  * Source code
+  * Bug reports
+  * Feature requests
 * [Documentation](https://baagaard-usgs.github.io/geomodelgrids)
-* Binary packages
-  - Linux (coming soon)
-  - MacOS (coming soon)
-* Source code (coming soon)
+* [Releases](https://github.com/baagaard-usgs/geomodelgrids/releases)
+  * Source code for releases
+  * Binary packages for MacOS and Linux
