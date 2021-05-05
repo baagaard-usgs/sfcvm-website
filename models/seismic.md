@@ -4,17 +4,16 @@
 
 **Released**: TBD
 
-Updated version of the USGS San Fracisco Bay region seismic velocity
-model. Revisions focus on improving the accuracy of the model in the
-East Bay, primarily east of the Hayward Fault. 
+Updated version of the USGS San Fracisco Bay region seismic velocity model.
+Revisions focus on improving the accuracy of the model in the East Bay, primarily east of the Hayward Fault.
+Only the detailed domain was changed, so there is no corresponding release for the regional domain.
 
 ### Quick Links
 
 * Model webpage
-* Downloads
-  - 3D model, detailed domain
-  - 3D model, regional domain
-  - Z1.0 and Z2.5 geotiff file
+* Downloads (release candidates for testing)
+  * [3D model, detailed domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_detailed-21-1-0.h5) (2.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-1-0-z10z25.tiff) (1MB)
 
 ## USGS San Francisco Bay Region, Version 21.0.0
 
@@ -26,10 +25,10 @@ Regeneration of USGS San Francisco Bay region version 08.3.0 in the
 ### Quick Links
 
 * Model webpage
-* Downloads
-  - 3D model, detailed domain
-  - 3D model, regional domain
-  - Z1.0 and Z2.5 geotiff file
+* Downloads (release candidates for testing)
+  * [3D model, detailed domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_detailed-21-0-0.h5) (2.1GB)
+  * [3D model, regional domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional-21-0-0.h5) (1.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-0-0-z10z25.tiff) (1MB)
 
 ## USGS San Francisco Bay Region, Version 08.3.0
 
