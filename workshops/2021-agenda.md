@@ -31,7 +31,7 @@ future workshops.
 
 ### Session II
 
-10:30am | Luther Strayer (CSUEB), East Bay Seismic Experiment
+10:30am | Rufus Catchings (USGS), East Bay Seismic Experiment
 10:42am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment
 10:54am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio
 11:06am | Avinash Nayak (LLNL), Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
@@ -88,6 +88,7 @@ future workshops.
 * Philip Maechling (USC/SCEC)
 * David McCallen (LBNL, UNR)
 * Don Medwedeff (Independent)
+* Morgan Moschetti (USGS)
 * Debra Murphy (Slate Geotechnical)
 * Rie Nakata (LBNL)
 * Avinash Nayak (LBNL)
