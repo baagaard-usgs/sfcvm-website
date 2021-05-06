@@ -46,7 +46,7 @@ future workshops.
 | 1:00pm | Integrating geology, geophysics, and seismology | Moderator: Cliff Thurber; Scribe: Brad Aagaard |
 | 1:20pm | Shallow structure | Moderator: Rufus Catchings; Scribe: Russ Graymer |
 | 1:40pm | Basin structure | Moderator: Artie Rodgers; Scribe: Evan Hirakawa |
-| 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: | Brad Aagaard |
+| 2:00pm | Special study areas | Moderator: Taka-aki Taira; Scribe: Brad Aagaard |
 
 ### Wrap-up discussion
 
