@@ -1,5 +1,14 @@
 # News
 
+## May 7, 2021
+
+Release candidates for v21.0.0 and v21.1.0 of the USGS San Francisco Bay Area regional 3D seismic velocity models are now available.
+See [Seismic Velocity Models]({{ site.url }}{{ site.baseurl }}/models/seismic.html) for more information.
+
+GeoModelGrids v1.0.0rc1 is now available for download.
+This software provides tools for querying v21.0.0 and later of the USGS San Francisco Bay regional 3D seismic velocity models.
+See [geomodelgrids]({{ site.url }}{{ site.baseurl }}/software/geomodelgrids.html) for more information.
+
 ## April 1, 2021
 
 Our next workshop focused on geologic and seismic velocity models of
