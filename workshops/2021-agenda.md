@@ -7,11 +7,6 @@ with the 3-D Bay Area geologic and seismic velocity models.
 
 One of the goals will be to identify potential collaborations.
 
-[Registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=urWTBhhLe02TQfMvQApUlJ7tnuKbWLpOqv1ZgDmHxJVURFJDTzlWRUEyVFpYSjZIVFA5SFY1OVUxUS4u)
-Register to attend the workshop **or** sign up for notification of
-future workshops.
-
-
 ## Agenda (all times in PDT):
 
 | 8:15am | Welcome, Brad Aagaard (USGS) |
@@ -72,6 +67,7 @@ future workshops.
 * Coyn Criley (USGS)
 * Collin Cronkite-Ratcliff (USGS)
 * Carola Di Alessandro (GeoPentech)
+* Claire Doody (UCBerkeley)
 * Gabriel Ferragut (Univ. Oregon)
 * Farid Ghahari (UCLA)
 * Mark Goldman (USGS)
@@ -82,6 +78,7 @@ future workshops.
 * Koichi Hayashi (Geometrics/OYO)
 * Steve Hickman (USGS)
 * Evan Hirakawa (USGS)
+* Haiyang Kehoe (USGS/Univ. of Arizona)
 * Albert Kottke (PG&E)
 * Keith Knudsen (USGS)
 * Micaela Largent (Slate Geotechnical)
