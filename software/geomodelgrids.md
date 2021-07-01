@@ -21,7 +21,7 @@ memory.
   * Source code
   * Bug reports
   * Feature requests
-* [Documentation](https://baagaard-usgs.github.io/geomodelgrids)
+* [Documentation](https://geomodelgrids.readthedocs.io)
 * [Releases](https://github.com/baagaard-usgs/geomodelgrids/releases)
   * Source code for releases
   * Binary packages for MacOS and Linux
