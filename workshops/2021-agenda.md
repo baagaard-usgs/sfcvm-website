@@ -14,24 +14,24 @@ One of the goals will be to identify potential collaborations.
 
 ### Session I
 
-8:30am | Don Medwedeff (Research Geologist), The southwestward continuation of the Stockton Arch: Implications for the structural fabric of the East Bay
-8:42am | Geoff Phelps (USGS), The effect of alluvium on interpretation of geologic structure from gravity anomalies
-8:54am | Colin Cronkite-Ratcliff (USGS), Forward modeling the gravity anomaly in the San Francisco Bay Region Seismic Velocity Model: A tool for validation
-9:06am | Oliver Boyd (USGS), The National Crustal Model in the San Francisco Bay region
-9:18am | Brad Aagaard (USGS), USGS San Francisco Bay 3D Seismic Velocity Model versions 21.0.0 and v21.1.0
-9:30am | Evan Hirakawa (USGS), New relations for seismic velocities of SF Bay Quaternary sediments and simulation of long duration shaking in the East Bay plain
+8:30am | Don Medwedeff (Research Geologist), The southwestward continuation of the Stockton Arch: Implications for the structural fabric of the East Bay [[slides]](slides/2021_sfusr_0830_Medwedeff_EastBayStructFabric.pdf)
+8:42am | Geoff Phelps (USGS), The effect of alluvium on interpretation of geologic structure from gravity anomalies [[slides]](slides/2021_sfusr_0842_Phelps_AlluviumGravity.pdf)
+8:54am | Colin Cronkite-Ratcliff (USGS), Forward modeling the gravity anomaly in the San Francisco Bay Region Seismic Velocity Model: A tool for validation [[slides]](slides/2021_sfusr_0854_CronkiteRatcliff_GravityValidation.pdf)
+9:06am | Oliver Boyd (USGS), The National Crustal Model in the San Francisco Bay region [[slides]](slides/2021_sfusr_0906_Boyd_NationalCrustalModel.pdf)
+9:18am | Brad Aagaard (USGS), USGS San Francisco Bay 3D Seismic Velocity Model versions 21.0.0 and v21.1.0 [[slides]](slides/2021_sfusr_0918_Aagaard_SFCVM.pdf)
+9:30am | Evan Hirakawa (USGS), New relations for seismic velocities of SF Bay Quaternary sediments and simulation of long duration shaking in the East Bay plain [[slides]](slides/2021_sfusr_0930_Hirakawa_EastBayShallow.pdf)
 9:42am | Discussion
 
 ### Break
 
 ### Session II
 
-10:30am | Rufus Catchings (USGS), East Bay Seismic Experiment
-10:42am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment
-10:54am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio
-11:06am | Avinash Nayak (LBNL), Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area
-11:18am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simulations of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults
-11:30am | David McCallen (UNR), EQSIM Exascale Computing Project
+10:30am | Rufus Catchings (USGS), East Bay Seismic Experiment [[slides]](slides/2021_sfusr_1030_Catchings_EastBaySeismic.pdf)
+10:42am | Taka’aki Taira (UCBerkeley), Berkeley nodal seismic experiment [[slides]](slides/2021_sfusr_1042_Taira_BerkeleyNodal.pdf)
+10:54am | Koichi Hayashi (Geometrics), 3D S-wave velocity model of the south San Francisco Bay area obtained from Microtremor array measurements and H/V spectral ratio  [[slides]](slides/2021_sfusr_1054_Hayashi_ShallowVsSouthBay.pdf)
+11:06am | Avinash Nayak (LBNL), Ambient Noise Surface-Wave Tomography of the San Francisco Bay Area [[slides]](slides/2021_sfusr_1106_Nayak_AmbientTomography.pdf)
+11:18am | Ruth Harris (USGS), Effects of geology and seismic velocity variations on spontaneous rupture simulations of large earthquakes on the Rodgers Creek, Hayward, and Calaveras faults [[slides]](slides/2021_sfusr_1118_Harris_RuptureSimulations.pdf)
+11:30am | David McCallen (UNR), EQSIM Exascale Computing Project [[slides]](slides/2021_sfusr_1130_McCallen_EQSIM.pdf)
 11:42pm | Discussion
 
 ### Lunch
@@ -45,7 +45,7 @@ One of the goals will be to identify potential collaborations.
 
 ### Wrap-up discussion
 
-2:20pm | Reports from breakout sessions
+2:20pm | Reports from breakout sessions [[summary]](slides/2021_sfusr_breakout_summaries.pdf)
 2:40pm | Next steps
 3:00pm | Wrap-up
 
