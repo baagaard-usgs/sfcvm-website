@@ -11,9 +11,9 @@ Only the detailed domain was changed, so there is no corresponding release for t
 ### Quick Links
 
 * Model webpage
-* Downloads (release candidates for testing)
-  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_detailed-21-1-0.h5) (2.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-1-0-z10z25.tiff) (1MB)
+* Downloads (release candidates for testing; for use with GeoModelGrids v1.0.0rc2)
+  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-1_detailed.h5) (2.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-1_z10z25.tiff ) (1MB)
 
 ## USGS San Francisco Bay Region, Version 21.0.0
 
@@ -25,19 +25,17 @@ Regeneration of USGS San Francisco Bay region version 08.3.0 in the
 ### Quick Links
 
 * Model webpage
-* Downloads (release candidates for testing)
-  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_detailed-21-0-0.h5) (2.1GB)
-  * [3D model, regional domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional-21-0-0.h5) (1.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-0-0-z10z25.tiff) (1MB)
+* Downloads (release candidates for testing; for use with GeoModelGrids v1.0.0rc2)
+  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_detailed.h5) (2.1GB)
+  * [3D model, regional domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_regional.h5) (1.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_z10z25.tiff) (1MB)
 
 ## USGS San Francisco Bay Region, Version 08.3.0
 
 **Released**: April 28, 2008
 
-USGS San Francisco Bay seismic velocity model with detailed and
-regional domains released in 2008. The models are stored in the binary
-Etree format and queried using the
-[cencalvm](../software/cencalvm.html) software.
+USGS San Francisco Bay seismic velocity model with detailed and regional domains released in 2008.
+The models are stored in the binary Etree format and queried using the [cencalvm](../software/cencalvm.html) software.
 
 ### Quick Links
 
