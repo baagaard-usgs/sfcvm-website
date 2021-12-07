@@ -12,8 +12,8 @@ Only the detailed domain was changed, so there is no corresponding release for t
 
 * Model webpage
 * Downloads (release candidates for testing)
-  * [3D model, detailed domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_detailed-21-1-0.h5) (2.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-1-0-z10z25.tiff) (1MB)
+  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_detailed-21-1-0.h5) (2.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-1-0-z10z25.tiff) (1MB)
 
 ## USGS San Francisco Bay Region, Version 21.0.0
 
@@ -26,9 +26,9 @@ Regeneration of USGS San Francisco Bay region version 08.3.0 in the
 
 * Model webpage
 * Downloads (release candidates for testing)
-  * [3D model, detailed domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_detailed-21-0-0.h5) (2.1GB)
-  * [3D model, regional domain](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional-21-0-0.h5) (1.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ehzftp.wr.usgs.gov/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-0-0-z10z25.tiff) (1MB)
+  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_detailed-21-0-0.h5) (2.1GB)
+  * [3D model, regional domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional-21-0-0.h5) (1.1GB)
+  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/seismic_sfbay_regional+detailed-21-0-0-z10z25.tiff) (1MB)
 
 ## USGS San Francisco Bay Region, Version 08.3.0
 
@@ -43,5 +43,5 @@ Etree format and queried using the
 
 * [Model webpage](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/3-d-geologic-and-seismic-velocity-models-san-francisco?qt-science_center_objects=0#qt-science_center_objects)
 * Downloads
-  - [3D model, detailed domain](ftp://ehzftp.wr.usgs.gov/baagaard/cencalvm/database/USGSBayAreaVM-08.3.0.etree.gz) (1.6 GB)
-  - [3D model, regional domain](ftp://ehzftp.wr.usgs.gov/baagaard/cencalvm/database/USGSBayAreaVMExt-08.3.0.etree.gz) (1.1 GB)
+  - [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/cencalvm/database/USGSBayAreaVM-08.3.0.etree.gz) (1.6 GB)
+  - [3D model, regional domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/cencalvm/database/USGSBayAreaVMExt-08.3.0.etree.gz) (1.1 GB)
