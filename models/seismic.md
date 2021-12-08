@@ -1,34 +1,25 @@
 # 3D Seismic Velocity Models
 
-## USGS San Francisco Bay Region, 21.1.0
+## USGS San Francisco Bay Region, 21.1
 
-**Released**: TBD
+**Released**: December 8, 2021
 
 Updated version of the USGS San Fracisco Bay region seismic velocity model.
 Revisions focus on improving the accuracy of the model in the East Bay, primarily east of the Hayward Fault.
 Only the detailed domain was changed, so there is no corresponding release for the regional domain.
 
-### Quick Links
+[Model on ScienceBase.gov](https://doi.org/10.5066/P9TRDCHE)
+(use with GeoModelGrids v1.0.0rc2)
 
-* Model webpage
-* Downloads (release candidates for testing; for use with GeoModelGrids v1.0.0rc2)
-  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-1_detailed.h5) (2.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-1_z10z25.tiff ) (1MB)
+## USGS San Francisco Bay Region, Version 21.0
 
-## USGS San Francisco Bay Region, Version 21.0.0
-
-**Released**: TBD
+**Released**: December 8, 2021
 
 Regeneration of USGS San Francisco Bay region version 08.3.0 in the
 [geomodelgrids](../software/geomodelgrids.html) HDF5 schema.
 
-### Quick Links
-
-* Model webpage
-* Downloads (release candidates for testing; for use with GeoModelGrids v1.0.0rc2)
-  * [3D model, detailed domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_detailed.h5) (2.1GB)
-  * [3D model, regional domain](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_regional.h5) (1.1GB)
-  * [Z1.0 and Z2.5 geotiff file](ftp://ftpext.usgs.gov/pub/wr/ca/menlo.park/ehzftp/baagaard/sfbaycvm/USGS_SFCVM_v21-0_z10z25.tiff) (1MB)
+[Model on ScienceBase.gov](https://doi.org/10.5066/P98CA3D5)
+(use with GeoModelGrids v1.0.0rc2)
 
 ## USGS San Francisco Bay Region, Version 08.3.0
 
