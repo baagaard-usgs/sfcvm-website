@@ -12,6 +12,7 @@ repository](https://github.com/baagaard-usgs/sfcvm-website).
 
 ## Working Group
 
+* Evan Hirakawa (U.S. Geological Survey)
 * Brad Aagaard (U.S. Geological Survey)
 * Rufus Catchings (U.S. Geological Survey)
 * Russell Graymer (U.S. Geological Survey)
