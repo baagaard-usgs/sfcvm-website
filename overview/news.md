@@ -1,6 +1,6 @@
 # News
 
-## November XX, 2021
+## December 8, 2021
 
 v21.0 and v21.1 of the USGS San Francisco Bay Area regional 3D seismic velocity models are now available.
 See [Seismic Velocity Models]({{ site.url }}{{ site.baseurl }}/models/seismic.html) for more information.
