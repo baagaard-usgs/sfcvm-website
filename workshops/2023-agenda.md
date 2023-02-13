@@ -24,25 +24,25 @@ One of the goals will be to identify potential collaborations.
 
 | 10:10am | Brad Aagaard (USGS), Ground-motion records and basin depth models for the Great Valley, California
 | 10:20am | Sean Ahdi (USGS), Performance of empirical ground-motion models using basin depth parameters for the Great Valley, California
-| 10:30am | Tristan Buckreis (UCLA), Subregional anelatic attenuation model for Northern California
-| 10:45am | Chukwuebuka Nweke (USC), Pending stufy on regional site response in the Greater San Francisco Bay area
+| 10:30am | Tristan Buckreis (UCLA), Subregional anelastic attenuation model for Northern California
+| 10:45am | Chukwuebuka Nweke (USC), Pending study on regional site response in the Greater San Francisco Bay area
 | 11:00am | Discussion
 
 ### Lunch
 
 ### Session III
 
-| 12:40pm | Lightning talks: Gary Fuids, Koichi Hayashi, Erin Wirth, Tara Nye, Artie Rodgers
+| 12:40pm | Lightning talks: Gary Fuis, Koichi Hayashi, Erin Wirth, Tara Nye, Artie Rodgers
 | 1:00pm | Jamie Steidl (UCSB/USGS), Site characterization at Northern California stations
 | 1:15pm | Elnaz Seylabi (UNR), On developing a geotechnical layer model for the Bay Area in Northern California
-| 1:30pm | Rufus Catghings (USGS), Refine fine-scale (shallow depth) velocity models in Northern California
+| 1:30pm | Rufus Catchings (USGS), Refine fine-scale (shallow depth) velocity models in Northern California
 | 1:45pm | Discussion
 
 ### Break
 
 ### Session IV
 
-| 2:15pm | Cliff Thurber (Univ. Wisconsin) and Taka'aki Taira (UC Berekley), Updating and validating a 3D tomographic model of the San Francisco Bay area
+| 2:15pm | Cliff Thurber (Univ. Wisconsin) and Taka'aki Taira (UC Berkeley), Updating and validating a 3D tomographic model of the San Francisco Bay area
 | 2:30pm | Claire Doody (), CANVAS: An adjoint waveform tomography model of California
 | 2:45pm | Discussion
 
